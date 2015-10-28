@@ -1,0 +1,7 @@
+html,body,div,span,iframe,h1,h2,h3,h4,h5,h6,p,a,img,dl,dt,dd,ol,ul,li,form,label,input,table,tbody,tr,th,td,strong,article,header,nav,section,footer { margin: 0; padding: 0; vertical-align: baseline;}
+body,div,a{color: #666;}
+ul,li {list-style: none;}
+body, button, input, select, textarea{font: 13px/1.5 '微软雅黑',YaHei,tahoma,arial,"Hiragino Sans GB",宋体;}
+a{text-decoration: none;}
+a,input,button{ outline:none; }
+img{border: none;}
