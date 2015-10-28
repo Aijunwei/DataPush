@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="DataPush:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="DataPush.war">
+      <element id="artifact" artifact-name="DataPush:war exploded" />
+    </root>
+  </artifact>
+</component>
